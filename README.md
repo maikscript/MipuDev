@@ -20,7 +20,7 @@
 const mipu = {
   idade:    18,
   local:    "Goiás, Brasil",
-  foco:     ["IA", "LLMs", "automação", "backend"],
+  foco: ["bots de Discord", "sites", "automação"],
   filosofia: "construo pra mim. se funciona, tá bom.",
   openSource: false, // não é pra todo mundo e tá tudo bem
 }
